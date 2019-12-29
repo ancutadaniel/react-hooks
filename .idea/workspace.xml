@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6ddd295-8561-4638-b2ad-2b3ee34e2c59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VRY0X9OcdBf9ntqcBuzUp7tQAc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/black_white" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\#3SS\next-react\static\black_white" />
+      <recent name="E:\#3SS\next-react\static" />
+      <recent name="E:\#3SS\next-react\pages" />
+      <recent name="E:\#3SS\next-react\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\#3SS\next-react\static\black&amp;white" />
+      <recent name="E:\#3SS\next-react\static" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6ddd295-8561-4638-b2ad-2b3ee34e2c59" name="Default Changelist" comment="" />
+      <created>1577217151306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577217151306</updated>
+      <workItem from="1577217152811" duration="2916000" />
+      <workItem from="1577268717723" duration="8220000" />
+      <workItem from="1577440538744" duration="16000" />
+      <workItem from="1577440568880" duration="1638000" />
+      <workItem from="1577549901498" duration="426000" />
+      <workItem from="1577550342880" duration="1704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="722" key="#ESLint" timestamp="1577550487680">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2472" y="722" key="#ESLint/0.0.3840.2130@0.0.3840.2130" timestamp="1577550487680" />
+    <state x="2606" y="854" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577281770353">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2606" y="854" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.2130@0.0.3840.2130" timestamp="1577281770353" />
+    <state x="2560" y="792" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577440548017">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2560" y="792" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3840.2130@0.0.3840.2130" timestamp="1577440548017" />
+    <state width="1882" height="609" key="GridCell.Tab.0.bottom" timestamp="1577552320305">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1882" height="609" key="GridCell.Tab.0.bottom/0.0.3840.2130@0.0.3840.2130" timestamp="1577552320305" />
+    <state width="1882" height="609" key="GridCell.Tab.0.center" timestamp="1577552320305">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1882" height="609" key="GridCell.Tab.0.center/0.0.3840.2130@0.0.3840.2130" timestamp="1577552320305" />
+    <state width="1882" height="609" key="GridCell.Tab.0.left" timestamp="1577552320305">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1882" height="609" key="GridCell.Tab.0.left/0.0.3840.2130@0.0.3840.2130" timestamp="1577552320305" />
+    <state width="1882" height="609" key="GridCell.Tab.0.right" timestamp="1577552320305">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1882" height="609" key="GridCell.Tab.0.right/0.0.3840.2130@0.0.3840.2130" timestamp="1577552320305" />
+    <state x="2381" y="696" key="SettingsEditor" timestamp="1577550219774">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2381" y="696" key="SettingsEditor/0.0.3840.2130@0.0.3840.2130" timestamp="1577550219774" />
+  </component>
+</project>
